@@ -1,6 +1,6 @@
 /*
 
-Programa em C++ que recebe dados (peso, idade, nome) de dois gatos e imprime na tela;
+Programa em C++ que recebe dados (peso, idade, nome) de dois gatos e os imprime na tela;
 Implementação fora da classe Gato.
 
 */
